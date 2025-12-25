@@ -54,5 +54,5 @@
         "title": "test notification",
         "message": "muted.",
         "type": "info"
-    },
+    }
 ]
