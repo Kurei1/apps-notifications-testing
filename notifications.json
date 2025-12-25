@@ -42,5 +42,11 @@
         "title": "test notification4",
         "message": "this should be the last.",
         "type": "info"
+    },
+     {
+        "id": "tip_6",
+        "title": "test notification",
+        "message": "for sure.",
+        "type": "info"
     }
 ]
