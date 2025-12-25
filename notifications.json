@@ -1,0 +1,16 @@
+[
+    {
+        "id": "update_v2.5",
+        "title": "New Version Available",
+        "message": "AudioSync v2.5.0 is now available! This update includes improved audio engine stability, lower latency, and a new dark mode.",
+        "type": "update",
+        "action": "Download Now",
+        "link": "https://audiosync.app/download"
+    },
+    {
+        "id": "tip_1",
+        "title": "Pro Tip",
+        "message": "Did you know you can now customize the buffer size for even lower latency? check the settings.",
+        "type": "info"
+    }
+]
