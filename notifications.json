@@ -36,5 +36,11 @@
         "title": "test notification3",
         "message": "ig its working.",
         "type": "info"
+    },
+     {
+        "id": "tip_5",
+        "title": "test notification4",
+        "message": "this should be the last.",
+        "type": "info"
     }
 ]
