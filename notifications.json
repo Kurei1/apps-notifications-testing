@@ -11,7 +11,13 @@
     "message": "First official release is now available.",
     "type": "update",
     "action": "Download Now"
-  }
+  },
+        {
+        "id": "info_1",
+        "title": "test",
+        "message": "This is just a test",
+        "type": "info"
+    }
 
   
 ]
