@@ -1,1 +1,11 @@
+[
+{
+        "id": "welcome_v1",
+        "title": "Welcome to AudioSync",
+        "message": "Thanks for using this app, hope you like it 🥰",
+        "type": "info"
+    }
 
+
+  
+]
