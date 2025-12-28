@@ -6,13 +6,6 @@
         "type": "info"
     },
         {
-    "id": "update_v1.0",
-    "title": "AudioSync v1.0.0 Released!",
-    "message": "First official release is now available.",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
     "id": "update_v1.1",
     "title": "AudioSync v1.1.0 Released!",
     "message": "First official release is now available.",
