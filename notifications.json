@@ -24,6 +24,13 @@
     "message": "test update 2",
     "type": "update",
     "action": "Download Now"
+  },
+        {
+    "id": "update_v1.1.2",
+    "title": "AudioSync v1.1.2 Released!",
+    "message": "big fix",
+    "type": "update",
+    "action": "Download Now"
   }
 
   
