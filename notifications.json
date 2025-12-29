@@ -59,6 +59,13 @@
     "message": "small fixes",
     "type": "update",
     "action": "Download Now"
+  },
+        {
+    "id": "update_v1.1.7",
+    "title": "AudioSync v1.1.7 Released!",
+    "message": "is this your first time updating? -- no this is my last 💀",
+    "type": "update",
+    "action": "Download Now"
   }
 
   
