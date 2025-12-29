@@ -2,71 +2,9 @@
 {
         "id": "welcome_v1",
         "title": "Welcome to AudioSync",
-        "message": "Thanks for using this app, hope you like it 🥰",
+        "message": "Thanks for using the app! I hope you enjoy it 🥰\n🥰 شكراً على استخدام التطبيق! نتمنى أن ينال إعجابكم",
         "type": "info"
-    },
-        {
-    "id": "update_v1.1",
-    "title": "AudioSync v1.1.0 Released!",
-    "message": "First official release is now available.",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-        "id": "info_1",
-        "title": "test",
-        "message": "This is just a test",
-        "type": "info"
-    },
-        {
-    "id": "update_v1.1.1",
-    "title": "AudioSync v1.1.1 Released!",
-    "message": "test update 2",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-    "id": "update_v1.1.2",
-    "title": "AudioSync v1.1.2 Released!",
-    "message": "big fix",
-    "type": "update",
-    "action": "Download Now"
-  },
-         {
-    "id": "update_v1.1.3",
-    "title": "AudioSync v1.1.3 Released!",
-    "message": "suiiiiiiiiii im taired of updates",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-    "id": "update_v1.1.4",
-    "title": "AudioSync v1.1.4 Released!",
-    "message": "lets see",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-    "id": "update_v1.1.5",
-    "title": "AudioSync v1.1.5 Released!",
-    "message": "another one",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-    "id": "update_v1.1.6",
-    "title": "AudioSync v1.1.6 Released!",
-    "message": "small fixes",
-    "type": "update",
-    "action": "Download Now"
-  },
-        {
-    "id": "update_v1.1.7",
-    "title": "AudioSync v1.1.7 Released!",
-    "message": "is this your first time updating? -- no this is my last 💀",
-    "type": "update",
-    "action": "Download Now"
-  }
+    }
 
-  
+        
 ]
