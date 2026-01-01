@@ -4,6 +4,13 @@
         "title": "Welcome to AudioSync",
         "message": "Thanks for using the app! I hope you enjoy it 🥰\n🥰 شكراً على استخدام التطبيق! أتمنى أن ينال إعجابكم",
         "type": "info"
+    },
+        {
+        "id": "update_v1.0.1",
+        "title": "New Version Available",
+        "message": "AudioSync v1.0.1 is now available! Now you can report bugs!.",
+        "type": "update",
+        "action": "Download Now"
     }
 
         
