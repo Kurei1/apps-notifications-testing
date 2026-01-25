@@ -26,5 +26,12 @@
     "title": "is it working now",
     "message": "just a test",
     "action": "Download Now"
+},
+ {
+    "id": "update_v1.0.6",
+    "type": "update",
+    "title": "speed pls i need this",
+    "message": "suiiiiii",
+    "action": "Download Now"
 }
 ]
