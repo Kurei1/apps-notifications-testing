@@ -5,5 +5,12 @@
     "title": "Hello from GitHub!",
     "message": "This is a remote notification test.",
     "type": "info"
+},
+ {
+    "id": "update_v1.0.4",
+    "type": "update",
+    "title": "New Version Available",
+    "message": "test",
+    "action": "Download Now"
 }
 ]
