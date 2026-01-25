@@ -1,9 +1,9 @@
 [
  
   {
-  "title": "test2: v1.0.3",
-  "message": "New features: Window Controls, Improved Bluetooth UI!",
-  "type": "update",
-  "updateUrl": "https://github.com/Kurei1/apps-notifications-testing/releases/download/v1.0.3/AudioSync-Setup-1.0.3.exe",
+    "id": "test_msg_v1",
+    "title": "Hello from GitHub!",
+    "message": "This is a remote notification test.",
+    "type": "info"
 }
 ]
