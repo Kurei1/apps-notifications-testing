@@ -5,5 +5,12 @@
   "type": "update",
   "updateUrl": "https://github.com/Kurei1/apps-notifications-testing/releases/tag/v1.0.3/AudioSync-Setup-1.0.3.exe",
   "timestamp": <server timestamp>
+},
+  {
+  "title": "test: v1.0.3",
+  "message": "New features: Window Controls, Improved Bluetooth UI!",
+  "type": "update",
+  "updateUrl": "https://github.com/Kurei1/apps-notifications-testing/releases/tag/v1.0.3/AudioSync-Setup-1.0.3.exe",
+  "timestamp": <server timestamp>
 }
 ]
