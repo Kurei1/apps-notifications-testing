@@ -1,10 +1,9 @@
 [
   {
-    "id": "update_v1.0.3",
-    "type": "update",
-    "title": "Real Update Test",
-    "message": "Testing the custom download flow from Google Drive.",
-    "version": "1.0.3",
-    "downloadUrl": "https://drive.usercontent.google.com/download?id=1Uyz5tctedygRIRC5UqGg7bO1sZ3gnvWf&export=download&authuser=0&confirm=t&uuid=82b204c4-355c-4d50-8f0b-d74d0537b0ed&at=APcXIO2rEA_tdgo4i5p40r08sXXh:1769191645015"
-  }
+  "title": "Update Available: v1.0.3",
+  "message": "New features: Window Controls, Improved Bluetooth UI!",
+  "type": "update",
+  "updateUrl": "https://github.com/Kurei1/apps-notifications-testing/releases/tag/v1.0.3/AudioSync-Setup-1.0.3.exe",
+  "timestamp": <server timestamp>
+}
 ]
