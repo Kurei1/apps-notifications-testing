@@ -7,38 +7,10 @@
     "type": "info"
 },
  {
-    "id": "update_v1.0.4",
+    "id": "update_v1.0.3",
     "type": "update",
     "title": "New Version Available",
     "message": "test",
     "action": "Download Now"
-},
- {
-    "id": "update_v1.0.5",
-    "type": "update",
-    "title": "is it working now",
-    "message": "just a test",
-    "action": "Download Now"
-},
- {
-    "id": "update_v1.0.5",
-    "type": "update",
-    "title": "is it working now",
-    "message": "just a test",
-    "action": "Download Now"
-},
- {
-    "id": "update_v1.0.6",
-    "type": "update",
-    "title": "speed pls i need this",
-    "message": "suiiiiii",
-    "action": "Download Now"
-},
- {
-    "id": "update_v1.0.7",
-    "type": "update",
-    "title": "speed pls i need this",
-    "message": "v7",
-    "action": "Download Now"
-}
+}//
 ]
