@@ -33,5 +33,12 @@
     "title": "speed pls i need this",
     "message": "suiiiiii",
     "action": "Download Now"
+},
+ {
+    "id": "update_v1.0.7",
+    "type": "update",
+    "title": "speed pls i need this",
+    "message": "v7",
+    "action": "Download Now"
 }
 ]
