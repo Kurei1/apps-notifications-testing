@@ -18,5 +18,12 @@
     "title": "Hello !",
     "message": "Thanks for using AudioSync.",
     "type": "info"
+},
+ {
+    "id": "update_v1.0.7",
+    "type": "update",
+    "title": "New Version Available 1.0.7",
+    "message": "will i show download",
+    "action": "Download Now"
 }
 ]
