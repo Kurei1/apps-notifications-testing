@@ -7,10 +7,10 @@
     "type": "info"
 },
  {
-    "id": "update_v1.0.3",
-    type === 'update 1.0.3',
-    "title": "New Version Available",
-    "message": "it should be working fine",
-    "action": "Download Now"
+    "id": "update_v1.0.4",
+    "type": "update",
+    "title": "New Version 1.0.4",
+    "message": "New features and bug fixes.",
+    "downloadUrl": "https://github.com/..."
 }
 ]
