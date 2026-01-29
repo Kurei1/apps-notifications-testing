@@ -7,16 +7,10 @@
     "type": "info"
 },
  {
-    "id": "update__v1.0.3",
+    "id": "update_v1.0.3",
     "type": "update 1.0.3",
     "title": "New Version Available",
     "message": "it should be working fine",
     "action": "Download Now"
-},
- {
-    "id": "welcom_1",
-    "title": "Hello !",
-    "message": "Thanks for using AudioSync.",
-    "type": "info"
 }
 ]
