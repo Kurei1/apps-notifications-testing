@@ -8,7 +8,7 @@
 },
  {
     "id": "update_v1.0.3",
-    "type": "update 1.0.3",
+    "type" === 'update 1.0.3',
     "title": "New Version Available",
     "message": "it should be working fine",
     "action": "Download Now"
