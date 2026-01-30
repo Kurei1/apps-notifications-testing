@@ -12,5 +12,13 @@
     "title": "New Version 1.0.4",
     "message": "New features and bug fixes.",
     "downloadUrl": "https://github.com/..."
+},
+ {
+    "id": "welcome_info3",
+    "title": "Welcome to AudioSync!",
+    "message": "<b><font size=\"2\">Thank you for installing AudioSync.</font></b><img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769815232176_cat-cat-meme.gif\" draggable=\"true\" data-width=\"181\" data-crop=\"0,0,0,0\" style=\"width: 181px; border-radius: 8px; margin: 0px; height: auto; max-width: none; position: absolute; left: 52.8261px; top: 21px; float: none;\" data-x=\"52.82609\" data-y=\"21\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+    "type": "info",
+    "target": "all",
+    "date": "2026-01-30"
 }
 ]
