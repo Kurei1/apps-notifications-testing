@@ -1,33 +1,32 @@
 [
- 
   {
     "id": "test_msg_v1",
     "title": "Hello from GitHub!",
     "message": "This is a remote notification test.",
     "type": "info"
-},
- {
+  },
+  {
     "id": "update_v1.0.4",
     "type": "update",
     "title": "New Version 1.0.4",
     "message": "New features and bug fixes.",
     "downloadUrl": "https://github.com/..."
-},
- {
+  },
+  {
     "id": "welcome_info3",
     "title": "Welcome to AudioSync!",
     "message": "<b><font size=\"2\">Thank you for installing AudioSync.</font></b><img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769815232176_cat-cat-meme.gif\" draggable=\"true\" data-width=\"181\" data-crop=\"0,0,0,0\" style=\"width: 181px; border-radius: 8px; margin: 0px; height: auto; max-width: none; position: absolute; left: 52.8261px; top: 21px; float: none;\" data-x=\"52.82609\" data-y=\"21\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
     "type": "info",
     "target": "all",
     "date": "2026-01-30"
-},
- {
+  },
+  {
     "id": "welcome_info",
-    "title": "Welcome to AudioSync!",
-    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769724134725_my-love-for-you-toji.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin-top: 10px; margin-bottom: 10px;\"><div><br></div>",
+    "title": "testing",
+    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769724134725_my-love-for-you-toji.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin: 0px; position: absolute; left: 98.826px; top: 37.8174px; float: none;\" data-x=\"98.826\" data-y=\"37.8174\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
     "type": "info",
     "target": "all",
     "date": "2026-01-31",
     "popup": false
-}
+  }
 ]
