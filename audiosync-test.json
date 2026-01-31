@@ -27,5 +27,14 @@
     "type": "info",
     "target": "all",
     "date": "2026-01-31"
+  },
+  {
+    "id": "info_ml2l9blq",
+    "title": "testing draging",
+    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769815232176_cat-cat-meme.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin: 0px; position: absolute; left: 179.826px; top: 6.8174px; float: none;\" data-x=\"179.82600000000002\" data-y=\"6.8174\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+    "type": "info",
+    "target": "all",
+    "date": "2026-01-31",
+    "popup": false
   }
 ]
