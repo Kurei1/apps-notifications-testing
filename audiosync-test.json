@@ -22,8 +22,8 @@
   },
   {
     "id": "welcome_info",
-    "title": "no draging v2",
-    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769724134725_my-love-for-you-toji.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin-top: 10px; margin-bottom: 10px;\"><div><br></div>",
+    "title": "draging",
+    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769724134725_my-love-for-you-toji.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin: 0px; position: absolute; left: 127.826px; top: 15.8174px; float: none;\" data-x=\"127.826088\" data-y=\"15.8174\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
     "type": "info",
     "target": "all",
     "date": "2026-01-31"
