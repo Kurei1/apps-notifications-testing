@@ -45,5 +45,14 @@
     "type": "update",
     "target": "all",
     "date": "2026-02-11"
+  },
+  {
+    "id": "info_n0wrdq",
+    "title": "Welcome ",
+    "message": "kurei is back",
+    "type": "info",
+    "target": "all",
+    "date": "2026-02-11",
+    "popup": true
   }
 ]
