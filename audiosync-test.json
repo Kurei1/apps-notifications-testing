@@ -22,11 +22,12 @@
   },
   {
     "id": "welcome_info",
-    "title": "draging",
-    "message": "<img src=\"https://raw.githubusercontent.com/Kurei1/apps-notifications-testing/main/Notif-Media/1769724134725_my-love-for-you-toji.gif\" draggable=\"true\" data-width=\"300\" data-crop=\"0,0,0,0\" style=\"width: 300px; border-radius: 8px; margin: 0px; position: absolute; left: 127.826px; top: 15.8174px; float: none;\" data-x=\"127.826088\" data-y=\"15.8174\"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+    "title": "suiiiiiiiii test",
+    "message": "just testing things\n<div><a href=\"https://github.com/Kurei1/apps-notifications-testing/blob/main/audiosync-test.json\" target=\"_blank\" title=\"Open in browser\" style=\"color: rgb(245, 158, 11); text-decoration: underline;\">link</a></div>",
     "type": "info",
     "target": "all",
-    "date": "2026-01-31"
+    "date": "2026-02-11",
+    "popup": true
   },
   {
     "id": "info_ml2l9blq",
@@ -44,5 +45,5 @@
     "type": "update",
     "target": "all",
     "date": "2026-02-11"
-}
+  }
 ]
