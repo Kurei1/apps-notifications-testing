@@ -54,5 +54,14 @@
     "target": "all",
     "date": "2026-02-11",
     "popup": true
+  },
+  {
+    "id": "info_aio8sg",
+    "title": "is he",
+    "message": "idk",
+    "type": "info",
+    "target": "all",
+    "date": "2026-02-11",
+    "popup": false
   }
 ]
