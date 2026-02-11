@@ -36,5 +36,13 @@
     "target": "all",
     "date": "2026-01-31",
     "popup": false
-  }
+  },
+  {
+    "id": "update_v1.0.6",
+    "title": "New Update Available",
+    "message": "A new version is available with performance improvements and bug fixes.\ncheck more info<a href=\"https://www.youtube.com\" target=\"_blank\" title=\"Open in browser\" style=\"color: rgb(245, 158, 11); text-decoration: underline;\"> <i><u><font color=\"#ef4444\" size=\"5\">here</font></u></i></a>",
+    "type": "update",
+    "target": "all",
+    "date": "2026-02-11"
+}
 ]
