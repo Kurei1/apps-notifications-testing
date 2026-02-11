@@ -36,13 +36,5 @@
     "target": "all",
     "date": "2026-01-31",
     "popup": false
-  },
-  {
-    "id": "update_v1.0.6",
-    "title": "New Update Available",
-    "message": "A<i><font color=\"#ef4444\"> <u><b>new version</b></u></font></i> is available with <font color=\"#10b981\"><b>performance improvements</b></font> and bug fixes.\n<b>Test</b>",
-    "type": "update",
-    "target": "all",
-    "date": "2026-02-11"
   }
 ]
