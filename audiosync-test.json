@@ -63,5 +63,14 @@
     "target": "all",
     "date": "2026-02-11",
     "popup": false
+  },
+  {
+    "id": "info_3y36ns",
+    "title": "heloooo",
+    "message": "i realy need money",
+    "type": "info",
+    "target": "all",
+    "popup": false,
+    "date": "2026-02-11"
   }
 ]
